@@ -15,4 +15,3 @@ if q1.lower() == "central processing unit":
 else:
     print("Incorrect")  
 print(f"your name{Tname}.your score is {score} ")          
-print()
